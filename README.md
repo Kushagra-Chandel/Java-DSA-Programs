@@ -63,8 +63,8 @@ java FileName
 
 ## 📢 Let's Connect!
 📌 **GitHub**: [@Kushagra-Chandel](https://github.com/Kushagra-Chandel)  
-📌 **LinkedIn**: [www.linkedin.com/in/kushagra-singh-chandel](#)  
-📌 **LeetCode**: [https://leetcode.com/u/Kushagra_Chandel/](#)  
+📌 **LinkedIn**: [Connect with me](https://www.linkedin.com/in/Kushagra-Chandel)  
+📌 **LeetCode**: [@Kushagra-Chandel](https://leetcode.com/Kushagra-Chandel)  
 
 ---
 
