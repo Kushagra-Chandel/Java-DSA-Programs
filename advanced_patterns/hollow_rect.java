@@ -18,6 +18,6 @@ public class hollow_rect {
         }
     }
     public static void main(String[] args) {
-        hollow_rectangle(10,7);
+        hollow_rectangle(4,5);
     }
 }
