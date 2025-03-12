@@ -20,7 +20,7 @@ public class hollow_rhombus {
         }
     }
     public static void main(String[] args) {
-        hol_rhom(7);
+        hol_rhom(9);
     }
     
 }
