@@ -3,7 +3,7 @@ package Arrays;
 public class largest {
     public static int getLargest(int numbers[]){
         int largest = Integer.MIN_VALUE;// it will store -infinity
-
+// if need to find smalles then can take INTEGER.MAX_vlaue which will provide +infinity
         for(int i=0; i<numbers.length;i++){
             if(largest < numbers[i]){
                 largest = numbers[i];
